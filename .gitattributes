@@ -1,0 +1,17 @@
+# Unreal Engine asset files
+*.uasset filter=lfs diff=lfs merge=lfs -text lockable
+*.umap filter=lfs diff=lfs merge=lfs -text lockable
+
+# Raw content and source files
+*.fbx filter=lfs diff=lfs merge=lfs -text lockable
+*.3ds filter=lfs diff=lfs merge=lfs -text lockable
+*.obj filter=lfs diff=lfs merge=lfs -text lockable
+*.blend filter=lfs diff=lfs merge=lfs -text lockable
+*.psd filter=lfs diff=lfs merge=lfs -text lockable
+*.tga filter=lfs diff=lfs merge=lfs -text lockable
+*.wav filter=lfs diff=lfs merge=lfs -text lockable
+
+# Other files that can be locked as needed
+*.ma filter=lfs diff=lfs merge=lfs -text lockable
+*.mb filter=lfs diff=lfs merge=lfs -text lockable
+*.max filter=lfs diff=lfs merge=lfs -text lockable
