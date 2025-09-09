@@ -8,9 +8,9 @@
   <strong>A fast-paced, first-person parkour speed-running game built in Unreal Engine.</strong>
   <br />
   <br />
-  <a href="https://github.com/YOUR_USERNAME/SystemBreach/issues">Report Bug</a>
+  <a href="https://github.com/Skibidi-Wizards/systembreach/issues">Report Bug</a>
   ·
-  <a href="https://github.com/YOUR_USERNAME/SystemBreach/issues">Request Feature</a>
+  <a href="https://github.com/Skibidi-Wizards/systembreach/issues">Request Feature</a>
 </p>
 
 ---
