@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/600x200.png/000000/FFFFFF?text=SYSTEM+BREACH" alt="System Breach Title Banner"/>
+  <img src="gamelogo.jpg" alt="System Breach Title Banner"/>
 </p>
 
 <h1 align="center">SYSTEM BREACH</h1>
