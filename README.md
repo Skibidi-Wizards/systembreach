@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="gamelogo.jpg" alt="System Breach Title Banner"/>
+  <img src="gamelogo_nowatermark.jpg" alt="System Breach Title Banner"/>
 </p>
 
 <h1 align="center">SYSTEM BREACH</h1>
