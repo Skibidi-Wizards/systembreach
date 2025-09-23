@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{DAC09026-4ACF-FBD8-082E-448D6B405C8B}",
+	"EngineAssociation": "{BFDA7F0D-45D1-3E84-67EA-55AB385EA49B}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -10,6 +10,21 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "Text3D",
+			"Enabled": true
+		},
+		{
+			"Name": "NiagaraUIRenderer",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Android"
+			]
 		}
+	],
+	"AdditionalPluginDirectories": [
+		"Content/Plugins"
 	]
 }
